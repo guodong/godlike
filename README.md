@@ -1,0 +1,2 @@
+# godlike
+osx terminal style
